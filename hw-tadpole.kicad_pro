@@ -389,7 +389,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "guille-lib"
+    ]
   },
   "meta": {
     "filename": "hw-tadpole.kicad_pro",
